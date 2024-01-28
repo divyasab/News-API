@@ -48,14 +48,14 @@ const NewsData=[{
     article:7,
     Image:"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202401/battling-cervical-cancer-27302219-16x9_0.jpg?VersionId=OGPkXII5csHlKKChRnQfvt9mnC7tNFP5", 
     title:"Busting the myths and stigma around cervical cancer: Experts answer - India Today - India Today",
-    description: "Cervical cancer is the second most frequent cancer that affects women in India. It is a disease that is, in fact, completely preventable. Despite the fact that there has been a vaccine available for cervical cancer for seventeen long years, including an indig…",
+    description: "Cervical cancer is the second most frequent cancer that affects women in India. It is a disease that is, in fact, completely preventable. Despite the fact that there ha…",
  
 },
 {
     article:8,
     Image:"https://static.toiimg.com/thumb/msid-107181443,width-1070,height-580,imgsize-809141,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg", 
     title:"Samsung replaces Google's AI with Baidu’s Ernie on its Galaxy S24 phones in China - Times of India",    
-    description:"Samsung has launched its Galaxy S24 lineup in China, and it comes with the Galaxy AI. But, there is a catch. Unlike the rest of the world, where Google’s Gemini AI model powers Galaxy S24 phones' AI features, the Galaxy AI on Galaxy S24 in China is powered by…",
+    description:"Samsung has launched its Galaxy S24 lineup in China, and it comes with the Galaxy AI. But, there is a catch. Unlike the rest of the world, where Google’s Gemini …",
 }
 
 ]
