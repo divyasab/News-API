@@ -1,11 +1,15 @@
 
-import Homepage from "./homepage";
+import Headerpage from "./headerpage";
+import NewsRow  from "./newsRow"
+import NewsData from './newsData';
 import Footer from "./footer";
+
 const Page=()=>{
   return(
     <>
     
-      <Homepage/>
+      <Headerpage/>
+      <NewsRow newsData={NewsData} />
       <Footer/>
     </>  
   )
